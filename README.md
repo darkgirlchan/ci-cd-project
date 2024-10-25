@@ -8,7 +8,7 @@ This project demonstrates a Continuous Integration/Continuous Deployment (CI/CD)
 
 #### Prerequisites
 
-- **Python 3.x**: Ensure Python is installed on your system. You can download it from [python.org](https://www.python.org/).
+- **Python 3.9**: Ensure Python is installed on your system. You can download it from [python.org](https://www.python.org/).
 - **Git**: Git must be installed to clone the repository and interact with GitHub. Download Git [here](https://git-scm.com/).
 
 #### Setup Steps
